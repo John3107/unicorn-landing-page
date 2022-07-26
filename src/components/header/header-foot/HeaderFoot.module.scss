@@ -1,0 +1,18 @@
+.headerFoot {
+  display: flex;
+  flex-direction: column;
+  margin: 56px 10%;
+  .text{
+    font-family: 'HKGrotesk-Regular';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3F3E46;
+    &:first-child{
+      margin-bottom: 30px;
+    }
+  }
+  ul{
+    margin: 0;
+  }
+}

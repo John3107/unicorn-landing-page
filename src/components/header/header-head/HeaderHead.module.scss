@@ -1,0 +1,75 @@
+.headerHead {
+  display: flex;
+  flex-direction: column;
+  margin: 0 10% 32px;
+
+  .nav {
+    display: inherit;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 48px;
+
+    .navigation {
+      display: inherit;
+
+      .menu {
+        display: inherit;
+        align-items: center;
+        margin-right: 24px;
+
+        .name {
+          font-family: 'HKGrotesk-Regular';
+          font-weight: 600;
+          font-size: 16px;
+          line-height: 24px;
+          color: #3F3E46;
+          margin-right: 4px;
+        }
+
+        .arrow {
+          width: 0;
+          height: 0;
+          border-left: 7px solid transparent;
+          border-right: 7px solid transparent;
+          border-top: 8px solid #3F3E46;;
+        }
+      }
+
+      button {
+        display: inherit;
+        align-items: center;
+        justify-content: center;
+        padding: 8px 20px;
+        background: #A575AE;
+        color: #FFF;
+        font-family: 'HKGrotesk-SemiBold';
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: uppercase;
+        border: none;
+      }
+    }
+  }
+
+  .breadCrumbs {
+    font-family: 'HKGrotesk-Regular';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #3F3E46;
+
+    .companies {
+      opacity: 0.55;
+    }
+  }
+}
+
+.title {
+  font-family: 'HKGrotesk-Bold';
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  color: #3F3E46;
+  text-transform: uppercase;
+}

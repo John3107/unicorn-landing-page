@@ -1,0 +1,28 @@
+.footer {
+  display: flex;
+  width: 100%;
+  background: #3F3E46;
+  padding: 56px 10%;
+
+  .links {
+    display: inherit;
+    flex-direction: column;
+    margin: 0 11.2% 0 21.9%;
+    .title{
+      font-family: 'HKGrotesk-SemiBold';
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 24px;
+      color: #8FC5AE;
+      margin-bottom: 16px;
+    }
+    .link{
+      font-family: 'HKGrotesk-Regular';
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 24px;
+      color: #FFF;
+      margin-bottom: 8px;
+    }
+  }
+}

@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "HKGrotesk-Bold";
+  src: local("HKGrotesk-Bold"),
+  url("./assets/fonts/HKGrotesk-Bold.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "HKGrotesk-Regular";
+  src: local("HKGrotesk-Regular"),
+  url("./assets/fonts/HKGrotesk-Regular.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "HKGrotesk-SemiBold";
+  src: local("HKGrotesk-SemiBold"),
+  url("./assets/fonts/HKGrotesk-SemiBold.otf") format("truetype");
+}

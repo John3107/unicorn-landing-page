@@ -1,0 +1,87 @@
+{
+    "hero": {
+        "title": "UK READY-MADE COMPANIES",
+        "description": "Turner Little offers a range of UK and Offshore Shelf Companies ready to go, as and when you need them. Historically, ‘shelf companies’ were created so that if speed was of the essence in a new business trading, or if an urgent transaction arose, a company could be taken off the shelf for the purpose. For instance, some jurisdictions require companies to have existed for a certain amount of time before they become eligible to bid on contracts."
+    },
+    "about": {
+        "text": "To help you move quickly, simply select the UK ready-made company which you desire from the table below and follow our step-by-step order process. And remember, you can change the name of the company, if required, from just £100 + VAT.",
+        "list": {
+            "title": "All our ready-made companies will be supplied with the following:",
+            "elements": [
+                "Six bound copies of the Memorandum and Articles of Association",
+                "Combined company register",
+                "Appointments of Directors and Company Secretary",
+                "First meetings held and fully updated registers",
+                "Certificate of non-trading"
+            ]
+        }
+    },
+    "orders": [
+        {
+            "price": "£12.48",
+            "title": "Digital",
+            "description": "Bank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register\nFree Accountancy Consulation\nHMRC UTR Number"
+        },
+        {
+            "price": "£16.98",
+            "title": "Digital & Print",
+            "description": "+ Printed Certificate of Incorporation\n+ Printed Share Certificates\nBank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register\nFree Accountancy Consulation\nHMRC UTR Number"
+        },
+        {
+            "price": "£27.48",
+            "title": "Privacy",
+            "description": "+ Registered Address, London EC1\n+ Directors Address, London EC1\n+ Free .co.uk Domain Name\nPrinted Certificate of Incorporation\nPrinted Share Certificates\nBank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register"
+
+        },
+        {
+            "price": "£54.48",
+            "title": "Fully Inclusive",
+            "description": "Confirmation Statement\n+ Trading Address, London EC1\n+ VAT Registration\nRegistered Address, London EC1\nDirectors Address, London EC1\nFree .co.uk Domain Name\nPrinted Certificate of Incorporation\nPrinted Share Certificates\nBank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register\nFree Accountancy Consulation"
+
+        },
+        {
+            "price": "£12.48",
+            "title": "Digital",
+            "description": "+ Confirmation Statement\n+ Trading Address, London EC1\n+ VAT Registration\nRegistered Address, London EC1\nDirectors Address, London EC1\nFree .co.uk Domain Name\nPrinted Certificate of Incorporation\nPrinted Share Certificates\nBank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register\nFree Accountancy Consulation\nHMRC UTR NumberFree Accountancy Consulation\nHMRC UTR Number"
+
+        }
+    ],
+    "footerData": {
+        "links": {
+            "title": "USEFUL LINKS",
+            "link": ["Cookie Policy", "Terms & Conditions", "Privacy Policy", "Complaints Policy", "Contact Us"]
+        }
+    },
+    "products": [
+        {
+            "id": 1,
+            "name": "Adora Regal Limited",
+            "incorporated": "Incorporated April 2022",
+            "price": 373.5
+        },
+        {
+            "id": 2,
+            "name": "Adora Regal Limited",
+            "incorporated": "Incorporated April 2022",
+            "price": 373.5
+        },
+        {
+            "id": 3,
+            "name": "Adora Regal Limited",
+            "incorporated": "Incorporated April 2022",
+            "price": 373.5
+        },
+        {
+            "id": 4,
+            "name": "Adora Regal Limited",
+            "incorporated": "Incorporated April 2022",
+            "price": 373.5
+        },
+        {
+            "id": 5,
+            "name": "Adora Regal Limited",
+            "incorporated": "Incorporated April 2022",
+            "price": 373.5
+        }
+    ]
+}

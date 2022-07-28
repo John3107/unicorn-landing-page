@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/unicorn-landing-page/static/css/main.045e5c5d.css",
+    "main.js": "/unicorn-landing-page/static/js/main.3235b70e.js",
+    "static/js/787.017ce8b3.chunk.js": "/unicorn-landing-page/static/js/787.017ce8b3.chunk.js",
+    "static/media/main-image.svg": "/unicorn-landing-page/static/media/main-image.468b51c77e5215874038cbfe10624f94.svg",
+    "static/media/HKGrotesk-SemiBold.otf": "/unicorn-landing-page/static/media/HKGrotesk-SemiBold.50deb08847b8a326a84a.otf",
+    "static/media/HKGrotesk-Bold.otf": "/unicorn-landing-page/static/media/HKGrotesk-Bold.031cc5f3a6785589af66.otf",
+    "static/media/HKGrotesk-Regular.otf": "/unicorn-landing-page/static/media/HKGrotesk-Regular.6638350d4b2b96867770.otf",
+    "static/media/lock.svg": "/unicorn-landing-page/static/media/lock.8714c9f7c687cdaa77a55c8b2db8b29c.svg",
+    "static/media/planet.svg": "/unicorn-landing-page/static/media/planet.ae05d424dcd644524e1161f33492a567.svg",
+    "static/media/bulb.svg": "/unicorn-landing-page/static/media/bulb.726e8618d73d3622f956612d7cb78983.svg",
+    "static/media/printer.svg": "/unicorn-landing-page/static/media/printer.965df32a1ad7a855dd9fbf43ac357b04.svg",
+    "static/media/instagram-icon.svg": "/unicorn-landing-page/static/media/instagram-icon.dd824c70d0d285a023bb7bedaf77ac77.svg",
+    "static/media/dribbble-icon.svg": "/unicorn-landing-page/static/media/dribbble-icon.43cbbcb84fadfcd42885240b906c9260.svg",
+    "static/media/whats-app.svg": "/unicorn-landing-page/static/media/whats-app.fd796a00f30a8c733e4c79986ccb5c79.svg",
+    "static/media/twitter-icon.svg": "/unicorn-landing-page/static/media/twitter-icon.3daf177df0eb744ef025e13341d49e57.svg",
+    "static/media/youtube-icon.svg": "/unicorn-landing-page/static/media/youtube-icon.9d47c6e6f528a2656eaa848ae137c8ea.svg",
+    "index.html": "/unicorn-landing-page/index.html",
+    "main.045e5c5d.css.map": "/unicorn-landing-page/static/css/main.045e5c5d.css.map",
+    "main.3235b70e.js.map": "/unicorn-landing-page/static/js/main.3235b70e.js.map",
+    "787.017ce8b3.chunk.js.map": "/unicorn-landing-page/static/js/787.017ce8b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.045e5c5d.css",
+    "static/js/main.3235b70e.js"
+  ]
+}

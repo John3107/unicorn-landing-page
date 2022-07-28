@@ -1,28 +1,34 @@
 .footer {
   display: flex;
-  width: 100%;
   background: #3F3E46;
   padding: 56px 10%;
 
-  .links {
+  .footerMain {
     display: inherit;
-    flex-direction: column;
-    margin: 0 11.2% 0 21.9%;
-    .title{
-      font-family: 'HKGrotesk-SemiBold';
-      font-weight: 600;
-      font-size: 16px;
-      line-height: 24px;
-      color: #8FC5AE;
-      margin-bottom: 16px;
+    position: relative;
+    margin-left: 27.4%;
+    width: 100%;
+    @media(max-width: 525px) {
+      flex-direction: column;
     }
-    .link{
-      font-family: 'HKGrotesk-Regular';
-      font-weight: 600;
-      font-size: 16px;
-      line-height: 24px;
-      color: #FFF;
-      margin-bottom: 8px;
+
+    .whatsApp {
+      position: absolute;
+      left: 53%;
+      top: 78.2%;
+      @media(max-width: 1011px) {
+        display: none;
+      }
     }
   }
+
+  .icons {
+    display: inherit;
+    flex-direction: column;
+
+    img {
+      margin-bottom: 16px;
+    }
+  }
+
 }

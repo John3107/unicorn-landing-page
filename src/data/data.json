@@ -46,12 +46,22 @@
 
         }
     ],
-    "footerData": {
-        "links": {
+    "footerData": [
+        {
             "title": "USEFUL LINKS",
-            "link": ["Cookie Policy", "Terms & Conditions", "Privacy Policy", "Complaints Policy", "Contact Us"]
+            "data": [
+                "Cookie Policy",
+                "Terms & Conditions",
+                "Privacy Policy",
+                "Complaints Policy",
+                "Contact Us"
+            ]
+        },
+        {
+            "title": "CONTACT US",
+            "data": ["Turner Little Limited\nRegistered in England No. 3490752\nVat No. 764466206\n\nRegistered Office:\nFanshawe House\nPioneer Business Park\nAmy Johnson Way\nYork\nYO30 4TN\n\nOr message us on\n      WhatsApp\nLicensed by the Financial Conduct\nAuthority No. 734784"]
         }
-    },
+    ],
     "products": [
         {
             "id": 1,
